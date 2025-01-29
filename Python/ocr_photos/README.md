@@ -1,6 +1,6 @@
 ## 环境
 * Windows 24H2
-* Python 3.13.1
+* Python 3.13.1 或者 3.11
 * Tesseract-OCR
 ## pip包需求
 * Pillow
